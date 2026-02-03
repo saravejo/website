@@ -1,0 +1,22 @@
+baseURL: "https://saravejo.com"
+languageCode: "en-us"
+theme: "glim-midnight"
+
+params:
+  title: "Saravejo"
+  phrases:
+    - "Hacking"
+    - "Red Team"
+    - "Security"
+    - "Research"
+    - "CTF"
+  links:
+    - name: "GitHub"
+      url: "https://github.com/saravejo"
+    - name: "Wiki"
+      url: "https://wiki.saravejo.com"
+    - name: "Blog"
+      url: "https://substack.com/@saravejo"
+      newTab: true
+  backgroundVideo: "bg.mp4"
+  footer: "<!-- Made with ❤️ by <a href='https://mansoorbarri.com/' target='_blank'>Mansoor Barri</a> -->"
